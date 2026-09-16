@@ -1,0 +1,21 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Project output artifacts (PDFs, downloaded HTMLs, metadata)
+# You should generate these on the fly, not commit 20MB+ of binary filings to GitHub
+output/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# OS temporary files
+.DS_Store
+Thumbs.db
